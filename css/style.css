@@ -14,3 +14,9 @@ footer a {
   margin: 0 10px;
   color: brown;
 }
+.croisant-photo {
+  max-width: 100%;
+  border-radius: 10px;
+  margin: 30px auto;
+  display: block;
+}
